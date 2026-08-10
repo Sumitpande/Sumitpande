@@ -2,7 +2,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Backend-First+Full-Stack+Engineer;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Java+%E2%80%A2+React;Building+scalable+%2C+real-time+systems" alt="Typing SVG" />
 
-### YOUR_NAME
+### SUMIT PANDE
+
 **Backend-First Full-Stack Software Engineer**
 Building scalable backend systems, real-time applications, and distributed architectures.
 
@@ -65,7 +66,7 @@ Grouped by domain, not by badge count. **Core** = daily-driver / professional ex
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,kubernetes" alt="infra icons" height="42"/>
 
-`Docker` `Git` `GitHub Actions` `Linux` `AWS` — *Exploring: Kubernetes*
+`Docker` `Git` `GitHub Actions` `Linux` `AWS` — _Exploring: Kubernetes_
 
 **Architecture**
 
@@ -84,6 +85,7 @@ Grouped by domain, not by badge count. **Core** = daily-driver / professional ex
 <td width="50%" valign="top">
 
 ### 🔗 Nexus
+
 **Distributed real-time messaging platform**
 
 Started as a monolith, conceptually extended into a 6-service microservices architecture (API Gateway, Auth, User, Chat, Socket Gateway, Notification/Presence) with a Kafka event bus and database-per-service ownership.
@@ -112,7 +114,6 @@ A production-style shortening service with Base62 short-code generation, Redis c
 </td> -->
 
 </tr>
-
 
 <!-- <tr>
 <td width="50%" valign="top">
@@ -205,7 +206,6 @@ A workspace for tool-calling agents, RAG pipelines, and vector-store-backed retr
   ## Latest Writing
   <!-- BLOG-POST-LIST:START -->
   <!-- BLOG-POST-LIST:END -->
-
 
 <!--
   Spotify "currently playing" widget — disabled by default to keep the profile
